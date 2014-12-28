@@ -1,0 +1,9 @@
+wheel==0.23.0
+
+biplist==0.9
+colorlog==2.4.0
+# html2text==2014.12.24
+-e git+git@github.com:mdorn/html2text.git#egg=html2text
+lxml==3.4.1
+python-dateutil==2.3
+xattr==0.7.5
